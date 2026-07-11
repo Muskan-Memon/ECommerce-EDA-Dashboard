@@ -68,10 +68,6 @@ The dataset contains:
 
 ---
 
-## 📷 Dashboard Preview
-
-(Add your dashboard screenshot here.)
-
 ---
 
 ## 🎓 Internship
